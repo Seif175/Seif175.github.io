@@ -13,7 +13,7 @@
     <a href="https://github.com/Seif175/simple-feature-section">Solution</a>
     <span> | </span>
     <a href="https://devchallenges.io/challenge/simple-feature-section-challenge">
-      Challenge
+      Challenge 
     </a>
   </h3>
 </div>
